@@ -1,0 +1,7 @@
+# Ignore all PDF files
+*.pdf
+Annual reports/
+
+# Ignore Excel data files
+*.xlsx
+*.xls
