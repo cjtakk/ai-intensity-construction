@@ -3,7 +3,7 @@ import re
 import pandas as pd
 
 # Paths
-folder_path = r"C:\Users\crist\Desktop\Kouluhommat\Gradu\AI_dicitonary_Construction\Annual reports\2023"
+folder_path = r"C:\Users\crist\Desktop\Kouluhommat\Gradu\AI_dicitonary_Construction\Annual reports\2013"
 master_excel_path = (
     r"C:\Users\crist\Desktop\Kouluhommat\Gradu\Data\Final data\MA_master_final.xlsx"
 )
